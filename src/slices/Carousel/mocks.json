@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Non aliqua consectetur nostrud voluptate aliqua tempor duis laborum magna enim enim cupidatat commodo. Cillum voluptate veniam amet qui qui mollit Lorem enim ad do non ut aute do. Eiusmod velit elit voluptate dolore excepteur nostrud aute tempor."
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Creature"
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
