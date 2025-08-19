@@ -1,13 +1,13 @@
 "use client"
 
-import { FC,useRef } from "react";
+import { FC } from "react";
 import { asText,Content } from "@prismicio/client";
 import { PrismicRichText,PrismicText,SliceComponentProps } from "@prismicio/react";
 import { Bounded } from "@/components/Bounded";
 import clsx from "clsx";
 import { View } from "@react-three/drei";
 import Scene from "./Scene";
-import { useMediaQuery } from "@/hooks/useMediaQuery";
+
 
 /**
  * Props for `AlternatingText`.
